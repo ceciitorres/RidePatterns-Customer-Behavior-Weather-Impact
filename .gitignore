@@ -12,3 +12,6 @@ __pycache__/
 
 # Ignore large temporary files
 *.tmp
+
+# Ignore enviroment files
+.venv
